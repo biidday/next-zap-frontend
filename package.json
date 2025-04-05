@@ -1,0 +1,9 @@
+{
+  "name": "next-zapp-frontend",
+  "version": "1.0.0",
+  "description": "Frontend do Next Zapp",
+  "scripts": {
+    "start": "echo 'Use Bolt.new para gerar e rodar o frontend'"
+  },
+  "dependencies": {}
+}
